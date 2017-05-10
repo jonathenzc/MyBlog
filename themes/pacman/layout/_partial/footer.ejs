@@ -1,3 +1,6 @@
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
 <div id="footer" >
 	<% if(theme.author_img_enable == true){ %>
 	<div class="line">
@@ -11,6 +14,7 @@
 			<%= theme.author.intro_line2 %> <br/>
 			<%= theme.author.intro_line3 %> </p>
 	</section>
+	
 	 <% } %>
 	<div class="social-font clearfix">
 		<% if(theme.author.weibo){ %>
@@ -35,5 +39,10 @@
 		<% } else {%>
 		<a href="<%= config.url %>" title="<%= config.title %>"><%= config.title %></a>
 		<% } %>
+		</p>
+		<p class="copyright">
+			People: <span id="busuanzi_value_site_uv"></span> |
+			Views: <span id="busuanzi_value_site_pv"></span> |
+			Page: <span id="busuanzi_value_page_pv"></span>
 		</p>
 </div>
