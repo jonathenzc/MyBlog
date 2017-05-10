@@ -1,0 +1,9 @@
+<form action="http://www.baidu.com/s" method="get" accept-charset="utf-8">
+  <div class="input-group">
+    <input class="form-control" id="searchbox" type="search" name="q1" results="0" placeholder="<%= __('search') %>">
+    <span class="input-group-btn">
+      <button class="btn btn-default" type="submit">Go!</button>
+    </span>
+    <input type="hidden" name="q6" value="<%- config.url.replace(/^https?:\/\//,'') %>">
+  </div>
+</form>
