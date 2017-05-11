@@ -74,7 +74,7 @@ author:
 
 #### Comment
 duoshuo: 
-  enable: true  ## duoshuo.com
+  enable: false  ## duoshuo.com
   short_name: jonathenzc   ## duoshuo short name.
 
 #### Share button
@@ -102,3 +102,5 @@ google_cse:
 ## title: search
 ## ---
 
+# 高亮的主题，若为空则使用默认主题
+google_code_prettify: prettify-tomorrow-night-eighties
