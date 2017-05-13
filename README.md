@@ -12,7 +12,7 @@ Blog source file for jonathenzc.github.io
 
 **Step 3: npm install**
    
-  1. type "hexo -v" to check you have installed hexo
+  1. type "hexo -v" to check you have installed hexo. If it doesn't work you can type "npm install hexo-cli -g"
 
   2. type "npm install" to create directory "node_modules" now type "hexo -v" you will see the version of your hexo
 
