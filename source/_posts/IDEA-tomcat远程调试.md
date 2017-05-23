@@ -17,7 +17,7 @@ IDEA下就是new一个remote的tomcat server，在‘Startup/Connection’下的
 
 ```shell
 JPDA_OPTS="-agentlib:jdwp=transport=dt_socket,address=1043,suspend=n,server=y"
-
+     
 /usr/local/tomcat/bin/catalina.sh jpda start
 ```
 
