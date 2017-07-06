@@ -103,9 +103,3 @@ alt+左方向或者右方向 打开文件，前进后退功能;
 # markdown #
 
 [meditor](https://www.zybuluo.com/mdeditor)
-
-# 项目git url #
-
-[项目git](https://github.com/jonathenzc/DubboPlayground.git "https://github.com/jonathenzc/DubboPlayground.git") 
-
-项目中的Newbeeshop就是新手任务。
