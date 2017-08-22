@@ -1,6 +1,6 @@
 title: IDEA + spring boot 热部署
 date: 2017-05-25 18:00:34
-categories: 【IDEA, Spring Boot】
+categories: 【IDEA】
 tags: [IDEA, Spring Boot]
 ---
 ## {{ title }} ##

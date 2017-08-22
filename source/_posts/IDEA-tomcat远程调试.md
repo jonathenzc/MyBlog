@@ -1,6 +1,6 @@
 title: IDEA tomcat远程调试
 date: 2017-05-22 15:39:23
-categories: 【IDEA, Tomcat】
+categories: 【IDEA】
 tags: [IDEA, Tomcat]
 ---
 ## {{ title }} ##
