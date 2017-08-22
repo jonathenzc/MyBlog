@@ -1,7 +1,7 @@
 title: jquery loop click
 date: 2017-07-30 17:36:50
-categories: 【jquery】
-tags: [jquery]
+categories: 【jQuery】
+tags: [jQuery]
 ---
 ## {{ title }} ##
 

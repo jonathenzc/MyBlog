@@ -1,7 +1,7 @@
 title: git ignore
 date: 2016-04-28 17:12:11
-categories: 【git】
-tags: [git]
+categories: 【Git】
+tags: [Git]
 ---
 ## {{ title }} ##
 
