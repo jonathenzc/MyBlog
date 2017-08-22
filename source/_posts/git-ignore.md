@@ -7,7 +7,7 @@ tags: [Git]
 
 ---
 
-参考的网页
+参考资料：
 
 [https://segmentfault.com/q/1010000000430426](https://segmentfault.com/q/1010000000430426 "https://segmentfault.com/q/1010000000430426")
 
