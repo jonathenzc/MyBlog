@@ -20,6 +20,18 @@ $('#checkAll').click(function(){
 });
 ```
 
+用visible、show()和hide()也可以实现
+
+```
+$('#checkAll').click(function(){
+    for(i=0; i < chart.series.length; i++) {
+        if(chart.series[i].visible == false){
+            chart.series[i].show();
+        }
+    }
+});
+```
+
 
 参考资料：
 
