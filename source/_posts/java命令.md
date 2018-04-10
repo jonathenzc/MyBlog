@@ -1,7 +1,7 @@
 title: java命令
 date: 2017-09-03 15:48:43
-categories: 【java】
-tags: [java]
+categories: 【Java】
+tags: [Java]
 ---
 ## {{ title }} ##
 

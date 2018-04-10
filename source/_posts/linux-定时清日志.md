@@ -1,7 +1,7 @@
 title: linux 定时清日志
 date: 2017-09-04 15:02:08
-categories: 【linux】
-tags: [linux]
+categories: 【Linux】
+tags: [Linux]
 ---
 ## {{ title }} ##
 

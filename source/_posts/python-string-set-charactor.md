@@ -1,7 +1,7 @@
 title: python string set charactor
 date: 2016-05-03 22:48:00
-categories: 【python】
-tags: [python]
+categories: 【Python】
+tags: [Python]
 ---
 ## {{ title }} ##
 

@@ -1,7 +1,7 @@
 title: java字符串不变性
 date: 2017-09-03 16:09:05
-categories: 【java】
-tags: [java]
+categories: 【Java】
+tags: [Java]
 ---
 ## {{ title }} ##
 

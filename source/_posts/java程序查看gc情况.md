@@ -1,7 +1,7 @@
 title: java程序查看gc情况
 date: 2017-12-06 14:15:26
-categories: 【java】
-tags: [java]
+categories: 【Java】
+tags: [Java]
 ---
 ## {{ title }} ##
 
